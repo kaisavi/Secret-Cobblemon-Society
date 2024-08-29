@@ -1,0 +1,15 @@
+downloads/
+logs/
+modernfix/
+mods/
+automation/secrets.ps1
+saves/
+schematics/
+showdown/
+trainers/
+xaero/
+XaeroWorldMap/
+.curseclient
+options.txt
+usercache.json
+usernamecache.json
